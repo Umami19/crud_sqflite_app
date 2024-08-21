@@ -1,16 +1,5 @@
-# crud_sqflite_app
+# Nama Projek: crud_sqflite_app
 
-A new Flutter project.
+## Pendahuluan
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Projek ini dibuat oleh saya Umami19 disaat saya mengikuti mata kuliah Pemrograman Mobile. Didalam projek ini, saya membuat sebuah aplikasi pendataan mahasiswa yang didalamnya terdapat operasi CRUD (Create, Read, Update, Delete) dan API yang digunakan ialah menggunakan bahasa pemrograman PHP.
